@@ -37,6 +37,14 @@ Antes de empezar, necesitamos configurar nuestro entorno de desarrollo.
    python --version
    ```
 
+### 2️⃣ Instalación de Visual Studio Code (VS Code)
+
+1. Descarga VS Code desde: 👉 [https://code.visualstudio.com/](https://code.visualstudio.com/docs/?dv=win64user)
+2. Instala el programa con las opciones predeterminadas.
+3. Abre VS Code y ve a la pestaña Extensiones (Ctrl + Shift + X).
+4. Busca e instala la extensión Python de Microsoft.
+5. Ahora, puedes abrir archivos .py y ejecutar código Python directamente desde VS Code.
+
 ## 🚀 ¡Prepárate para la aventura!
 
 Te invitamos a participar activamente, hacer preguntas y experimentar con el código. Python es como una bicicleta: ¡la mejor forma de aprender es usándolo! 🚴‍♂️💻
