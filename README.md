@@ -20,8 +20,22 @@ En este curso, exploraremos desde los conceptos básicos hasta técnicas más av
 🔹 Estructuras de control (condiciones y bucles)  
 🔹 Funciones  
 🔹 Módulos
-🔹 Manejo de archivos
+🔹 Manejo de archivos  
 🔹 Introducción a librerías populares como **Pandas y NumPy**
+
+## 🛠 Instalación de Python y Visual Studio Code
+
+Antes de empezar, necesitamos configurar nuestro entorno de desarrollo.
+
+### 1️⃣ Instalación de Python
+
+1. Ingresa a la página oficial de Python: 👉 [https://www.python.org/downloads/](https://www.python.org/downloads/)
+2. Descarga la última versión disponible para tu sistema operativo (Windows, macOS o Linux).
+3. **Muy importante:** Durante la instalación, marca la casilla **"Add Python to PATH"** antes de hacer clic en "Install Now".
+4. Para verificar la instalación, abre una terminal y escribe:
+   ```sh
+   python --version
+   ```
 
 ## 🚀 ¡Prepárate para la aventura!
 
