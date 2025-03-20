@@ -1,4 +1,4 @@
-print(10 + 10)
+print("Hola Mundo")
 
 # ? CREA TU PRIMER HOLA MUNDO
 #! print("Antonio Ramirez")
